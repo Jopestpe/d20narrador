@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Livro para Narrador do sistema d20">
+  <link rel="icon" type="image/svg+xml" href="icone.svg" />
+  </link>
+  <title>d20 Narrador</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="abas">
+    <a class="aba" href="#d20narrador">🎲 d20 Narrador</a>
+    <a class="aba" href="#raridade" title="Página da raridades">Raridade</a>
+    <a class="aba" href="#entidades_comuns" title="Página de Comuns">Comuns</a>
+    <a class="aba" href="#entidades_incomuns" title="Página de Incomuns">Incomuns</a>
+    <a class="aba" href="#entidades_raras" title="Página de Raras">Raros</a>
+    
+    <button class="aba" type="button" onclick="window.print()">📄 Baixar PDF</button>
+  </div>
+
+  <div class="paginas">
+
+    <section id="d20narrador" class="pagina d20">
+      <h1>d20 Narrador</h1>
+      <h4>d20 Narrador é um guia para facilitar a criação de desafios, monstros e NPCs</h4>
+      <h4>Use esta referência para equilibrar encontros e definir níveis de ameaça</h4>
+      
+      <h5>Versão 0.31.0</h5>
+    </section>
+    
+   <section id="raridade" class="pagina">
+    <h2>Raridades das entidades</h2>
+
+    <table class="tabela tabela3">
+        <tr>
+            <th>Raridade</th><th>Comum</th><th>Incomum</th><th>Raro</th><th>Épico</th><th>Místico</th><th>Lendário</th>
+        </tr>
+        <tr>
+            <th>Pontos de Batalha</th><td>1</td><td>3</td><td>5</td><td>8</td><td>12</td><td>20</td>
+        </tr>
+    </table>
+
+    <h2>Guia de Batalha</h2>
+
+    <table class="tabela">
+    <tr><th colspan="6">Cálculo de Pontos de Batalha (PB)</th></tr>
+    <tr><td>PB Jogador</td><td>4 + 🔷 Nível</td></tr>
+    <tr><td>Fórmula</td><td>(PB médio do grupo × nº de jogadores) + 2</td></tr>
+    </table>
+    <h2>Exemplos por Número de Jogadores</h2>
+    <div class="tabela_em_dupla">
+      <table class="tabela tabela3">
+      <tr><th>Jogadores</th><th>Pontos de Batalha</th></tr>
+      <tr><td>1</td><td>7</td></tr>
+      <tr><td>2</td><td>12</td></tr>
+      <tr><td>3</td><td>17</td></tr>
+      <tr><td>4</td><td>22</td></tr>
+      </table>
+      <table class="tabela tabela3">
+      <tr><th>Jogadores</th><th>Pontos de Batalha</th></tr>
+      <tr><td>5</td><td>27</td></tr>
+      <tr><td>6</td><td>32</td></tr>
+      <tr><td>7</td><td>37</td></tr>
+      <tr><td>8</td><td>42</td></tr>
+      </table>
+    </div>
+    </section>
+    <section id="entidades_incomuns" class="pagina">
+      <h2>Goblin Incomum</h2>
+      <table class="tabela">
+      <tr><th colspan="6">Atributos</th></tr>
+      <tr><td>💪 <span class="forca atributo">Força</span></td><td>2</td>
+      <td>🤹‍♂️ <span class="destreza atributo">Destreza</span></td><td>3</td>
+      <td>✊ <span class="constituicao atributo">Constituição</span></td><td>2</td></tr>
+      <tr><td>👁️ <span class="percepcao atributo">Percepção</span></td><td>2</td><td></td><td></td><td></td><td></td></tr>
+      </table>
+      <table class="tabela">
+      <tr><th colspan="6">Habilidades</th></tr>
+      <tr><td>🏃 Atletismo</td><td>2</td><td>🤸 Acrobacia</td><td>2</td><td>🥊 Briga</td><td>2</td></tr>
+      <tr><td>🤺 Reflexo</td><td>3</td><td>🥷 Furtividade</td><td>3</td><td>🗺️ Localizar</td><td>2</td></tr>
+      <tr><td>🎯 Pontaria</td><td>2</td><td>🗡️ Manuseio</td><td>2</td><td>🃏 Trapacear</td><td>2</td></tr>
+      </table>
+      <table class="tabela">
+      <tr><th colspan="6">🌡️ Condições</th></tr>
+      <tr><td>🩸 Vida</td><td>22</td><td>🛡️ Defesa</td><td>16</td><td>⚡ Energia</td><td>2</td></tr>
+      </table>
+      <table class="tabela tabela2">
+        <tr><th>💥 Ataque</th><th>🎲 Acertar</th><th>❗ Dano</th><th>↔️ Alcance</th></tr>
+        <tr><td>Faca Curva</td><td>1d20 + 5</td><td>2</td><td>Toque</td></tr>
+        <tr><td>Dardo Pesado</td><td>1d20 + 5</td><td>2</td><td>15m</td></tr>
+      </table>
+    </section>
+    <section id="entidades_raras" class="pagina">
+      <h2>Pugilista de Taverna (Raro)</h2>
+      <table class="tabela">
+      <tr><th colspan="6">Atributos</th></tr>
+      <tr><td>💪 <span class="forca atributo">Força</span></td><td>3</td><td>🤹‍♂️ <span class="destreza atributo">Destreza</span></td><td>3</td><td>✊ <span class="constituicao atributo">Constituição</span></td><td>3</td></tr>
+      <tr><td>🤝 <span class="carisma atributo">Carisma</span></td><td>1</td><td>👁️ <span class="percepcao atributo">Percepção</span></td><td>2</td><td></td><td></td></tr>
+      </table>
+      <table class="tabela">
+      <tr><th colspan="6">Habilidades</th></tr>
+      <tr><td>🏃 Atletismo</td><td>3</td><td>🤸 Acrobacia</td><td>2</td><td>🥊 Briga</td><td>4</td></tr>
+      <tr><td>🤺 Reflexo</td><td>3</td><td>🫵 Intimidação</td><td>2</td><td>🗺️ Localizar</td><td>1</td></tr>
+      <tr><td>🧗🏻 Determinação</td><td>2</td><td>🏋️ Fortitude</td><td>2</td><td>🃏 Trapacear</td><td>1</td></tr>
+      </table>
+      <table class="tabela">
+      <tr><th colspan="6">🌡️ Condições</th></tr>
+      <tr><td>🩸 Vida</td><td>32</td><td>🛡️ Defesa</td><td>17</td><td>⚡ Energia</td><td>3</td></tr>
+      </table>
+      <table class="tabela tabela2">
+      <tr><th>💥 Ataque</th><th>🎲 Acertar</th><th>❗ Dano</th><th>↔️ Alcance</th></tr>
+      <tr><td>Soco Direto</td><td>1d20 + 6</td><td>2</td><td>Toque</td></tr>
+      <tr><td>Cotovelada</td><td>1d20 + 6</td><td>3</td><td>Toque</td></tr>
+      <tr><td>Garrafa Improvisada</td><td>1d20 + 5</td><td>2</td><td>Toque</td></tr>
+      </table>
+    </section>
+</body>
+</html>

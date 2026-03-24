@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="368.64pt"
+    height="368.64pt"
+    viewBox="0 0 368.64 368.64">
+<defs/>
+<path id="shape1" transform="matrix(0.958801498127341 0 0 0.958801498127341 46.028976468697 23.0144882343485)" fill="#58170d" fill-rule="evenodd" stroke="#58170d" stroke-width="24.0033920256682" stroke-linecap="round" stroke-linejoin="round" d="M144.02 0L288.041 84.0119L288.041 252.036L144.02 336.047L0 252.036L0 84.0119Z" sodipodi:nodetypes="ccccccc"/><ellipse id="shape0" transform="matrix(0.958801498127341 0 0 0.958801498127341 92.16 135.953258426966)" rx="96.12" ry="61.2675" cx="96.12" cy="61.2675" fill="#d1ccb7" fill-rule="evenodd" stroke="none" stroke-width="36" stroke-linecap="square" stroke-linejoin="bevel"/><g id="group0" transform="translate(213.12, 28.8)" fill="none">
+  <path id="shape2" transform="translate(0, 11.2265622328463)" fill="none" stroke="#58170d" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" d="M0 69.4134C1.2881 -0.32644 92.9789 -13.2851 126.72 11.8134" sodipodi:nodetypes="cc"/>
+  <ellipse id="shape3" transform="translate(103.68, 0)" rx="23.04" ry="23.04" cx="23.04" cy="23.04" fill="#d1ccb7" fill-rule="evenodd" stroke="#58170d" stroke-width="8.64" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape01" transform="translate(114.213017110584, 11.52)" rx="12.5069828894163" ry="11.52" cx="12.5069828894163" cy="11.52" fill="#58170d" fill-rule="evenodd" stroke="none" stroke-width="8.64" stroke-linecap="square" stroke-linejoin="bevel"/>
+ </g><g id="group01" transform="matrix(-1 0 0 1 155.52 28.8000188835769)" fill="none">
+  <path id="shape02" transform="translate(0, 11.2265416355642)" fill="none" stroke="#58170d" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" d="M0 69.4134C1.2881 -0.326419 92.9789 -13.2851 126.72 11.8134" sodipodi:nodetypes="cc"/>
+  <circle id="shape11" transform="translate(103.68, 0)" r="23.04" cx="23.04" cy="23.04" fill="#d1ccb7" fill-rule="evenodd" stroke="#58170d" stroke-width="8.64" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape011" transform="translate(114.213017110584, 11.52)" rx="12.5069828894163" ry="11.52" cx="12.5069828894163" cy="11.52" fill="#58170d" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+ </g><g id="group02" transform="matrix(-1 0 0 -1 155.52 351.359970817782)" fill="none">
+  <path id="shape03" transform="translate(0, 11.2265251451625)" fill="none" stroke="#58170d" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" d="M0 69.4134C1.2881 -0.326403 92.9789 -13.2851 126.72 11.8134" sodipodi:nodetypes="cc"/>
+  <circle id="shape12" transform="translate(103.68, 0)" r="23.04" cx="23.04" cy="23.04" fill="#d1ccb7" fill-rule="evenodd" stroke="#58170d" stroke-width="8.64" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape012" transform="translate(114.213017110584, 11.52)" rx="12.5069828894163" ry="11.52" cx="12.5069828894163" cy="11.52" fill="#58170d" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+ </g><g id="group03" transform="matrix(1 0 0 -1 213.12 351.359962572581)" fill="none">
+  <path id="shape04" transform="translate(0, 11.2265117838114)" fill="none" stroke="#58170d" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" d="M0 69.4134C1.2881 -0.32639 92.9789 -13.2851 126.72 11.8134" sodipodi:nodetypes="cc"/>
+  <circle id="shape13" transform="translate(103.68, 0)" r="23.04" cx="23.04" cy="23.04" fill="#d1ccb7" fill-rule="evenodd" stroke="#58170d" stroke-width="8.64" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape013" transform="translate(114.213017110584, 11.52)" rx="12.5069828894163" ry="11.52" cx="12.5069828894163" cy="11.52" fill="#58170d" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+ </g><g id="group04" transform="matrix(0.707106781186549 0.707106781186549 -0.707106781186549 0.707106781186549 263.562376289488 56.7813121600149)" fill="none">
+  <path id="shape05" transform="translate(0, 11.2265416355642)" fill="none" stroke="#58170d" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" d="M0 69.4134C1.2881 -0.326419 92.9789 -13.2851 126.72 11.8134" sodipodi:nodetypes="cc"/>
+  <circle id="shape14" transform="translate(103.68, 0)" r="23.04" cx="23.04" cy="23.04" fill="#d1ccb7" fill-rule="evenodd" stroke="#58170d" stroke-width="8.64" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape014" transform="translate(114.213017110584, 11.52)" rx="12.5069828894163" ry="11.52" cx="12.5069828894163" cy="11.52" fill="#58170d" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+ </g><g id="group05" transform="matrix(-0.707106781186549 0.707106781186549 0.707106781186549 0.707106781186549 105.077630992751 56.7813194422537)" fill="none">
+  <path id="shape06" transform="translate(2.8421709430404e-14, 11.2265251451625)" fill="none" stroke="#58170d" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" d="M0 69.4134C1.2881 -0.326403 92.9789 -13.2851 126.72 11.8134" sodipodi:nodetypes="cc"/>
+  <circle id="shape15" transform="translate(103.68, 2.8421709430404e-14)" r="23.04" cx="23.04" cy="23.04" fill="#d1ccb7" fill-rule="evenodd" stroke="#58170d" stroke-width="8.64" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape015" transform="translate(114.213017110584, 11.52)" rx="12.5069828894163" ry="11.52" cx="12.5069828894163" cy="11.52" fill="#58170d" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+ </g><ellipse id="shape4" transform="translate(144, 144)" rx="40.32" ry="40.32" cx="40.32" cy="40.32" fill="#d1ccb7" fill-rule="evenodd" stroke="#58170d" stroke-width="23.04" stroke-linecap="square" stroke-linejoin="bevel"/><ellipse id="shape07" transform="translate(80.64, 115.2)" rx="103.68" ry="34.56" cx="103.68" cy="34.56" fill="#58170d" stroke="none" stroke-width="8.64" stroke-linecap="square" stroke-linejoin="bevel"/>
+</svg>
